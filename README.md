@@ -32,3 +32,9 @@ the topology of network could frequently change.
 application runs on the top of MANET even if traditional network is
 available for such collaborative environment, growth enables us to make
 use of such distinct network with some benefits
+
+##### Modules
+* Cluster formation
+* Trust Computation
+* Identifying Selfish Nodes
+* Trust management
